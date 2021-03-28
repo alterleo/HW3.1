@@ -13,6 +13,7 @@
 		FA4DB51C260E197B002B5485 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4DB51B260E197B002B5485 /* Preview Assets.xcassets */; };
 		FA4DB525260E222D002B5485 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4DB524260E222D002B5485 /* ColorCircle.swift */; };
 		FA4DB54D26106E2B002B5485 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = FA4DB54C26106E2B002B5485 /* .gitignore */; };
+		FA4DB550261090BF002B5485 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4DB54F261090BF002B5485 /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA4DB51D260E197B002B5485 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA4DB524260E222D002B5485 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
 		FA4DB54C26106E2B002B5485 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		FA4DB54F261090BF002B5485 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FA4DB514260E1974002B5485 /* TrafficLightsApp.swift */,
 				FA4DB516260E1974002B5485 /* ContentView.swift */,
 				FA4DB524260E222D002B5485 /* ColorCircle.swift */,
+				FA4DB54F261090BF002B5485 /* ButtonView.swift */,
 				FA4DB518260E197B002B5485 /* Assets.xcassets */,
 				FA4DB51D260E197B002B5485 /* Info.plist */,
 				FA4DB51A260E197B002B5485 /* Preview Content */,
@@ -148,6 +151,7 @@
 				FA4DB517260E1974002B5485 /* ContentView.swift in Sources */,
 				FA4DB515260E1974002B5485 /* TrafficLightsApp.swift in Sources */,
 				FA4DB525260E222D002B5485 /* ColorCircle.swift in Sources */,
+				FA4DB550261090BF002B5485 /* ButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
