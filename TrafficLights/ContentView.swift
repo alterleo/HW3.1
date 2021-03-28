@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    private var hueArr: Array<Double> = [0.007, 0.17, 0.337]
+    private var hueArr = [0.007, 0.17, 0.337]
     @State private var brightArr = [0.3, 0.3, 0.3]
     @State private var lastIndx = 0
     @State private var textButton = "START"

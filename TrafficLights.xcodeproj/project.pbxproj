@@ -12,6 +12,7 @@
 		FA4DB519260E197B002B5485 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4DB518260E197B002B5485 /* Assets.xcassets */; };
 		FA4DB51C260E197B002B5485 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4DB51B260E197B002B5485 /* Preview Assets.xcassets */; };
 		FA4DB525260E222D002B5485 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4DB524260E222D002B5485 /* ColorCircle.swift */; };
+		FA4DB54D26106E2B002B5485 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = FA4DB54C26106E2B002B5485 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA4DB51B260E197B002B5485 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA4DB51D260E197B002B5485 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA4DB524260E222D002B5485 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
+		FA4DB54C26106E2B002B5485 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		FA4DB508260E1973002B5485 = {
 			isa = PBXGroup;
 			children = (
+				FA4DB54C26106E2B002B5485 /* .gitignore */,
 				FA4DB513260E1974002B5485 /* TrafficLights */,
 				FA4DB512260E1974002B5485 /* Products */,
 			);
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA4DB51C260E197B002B5485 /* Preview Assets.xcassets in Resources */,
+				FA4DB54D26106E2B002B5485 /* .gitignore in Resources */,
 				FA4DB519260E197B002B5485 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
